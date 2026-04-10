@@ -55,10 +55,10 @@ Personal portfolio website for Dhrubo Basumatary showcasing projects, skills, an
 
 ## Link    
 
-link to the Portfolio- https://draco-go-89.github.io/portfolio/
+https://draco-go-89.github.io/portfolio/
 
 ## Author
 
 - Dhrubo Basumatary
-- GitHub: `https://github.com/draco-go-89`
+- GitHub: https://github.com/draco-go-89
 - Instagram: https://www.instagram.com/___lubolabao.1___/
